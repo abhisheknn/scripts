@@ -7,3 +7,4 @@
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "choco install tortoisegit -y"
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "choco install visualstudiocode -y"
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "choco install winmerge -y"
+@powershell -NoProfile -ExecutionPolicy Bypass -Command "choco install maven -y"
